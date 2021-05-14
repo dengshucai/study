@@ -1,11 +1,2 @@
 spring:
-  application:
-    name: config-client
-  cloud:
-    config:
-      server:
-        git:
-          uri: https://github.com/dengshucai/study.git.git
-          search-paths:
-            - springcloud-config
-      label: master
+  info: version_1
